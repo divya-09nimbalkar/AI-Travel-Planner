@@ -2,18 +2,18 @@
 ---
 
 ```markdown
-# ✈️ AI Travel Planner
+#  AI Travel Planner
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5--flash-blueviolet.svg)](https://aistudio.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
-> 🚀 An interactive automated travel curation platform that uses **Google Gemini 2.5-Flash JSON configurations** to instantly map comprehensive destination guides, build optimized multi-category spending bar charts, extract local cultural guidelines, and output clean markdown trip schedules.
+>  An interactive automated travel curation platform that uses **Google Gemini 2.5-Flash JSON configurations** to instantly map comprehensive destination guides, build optimized multi-category spending bar charts, extract local cultural guidelines, and output clean markdown trip schedules.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
@@ -25,13 +25,13 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 The **AI Travel Planner** tool helps travelers bypass the stress of coordinating multi-day vacations. By running structured JSON contextual inquiries across destination constraints, budget caps, traveler volumes, and specialized styles, it algorithmically maps ideal morning/afternoon/evening schedules, plots local expenditure forecasts, and compiles custom packing checklists.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 ```
@@ -64,7 +64,7 @@ User Trip Preferences Input
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **AI Destination Insights Compiler:** Discovers local landmarks, cuisine standouts, transit suggestions, and safety advisories using structured JSON interfaces.
 * **Automated Financial Category Balancer:** Automatically groups spending across accommodation, transit, and food, generating visual tracking bar charts saved to `output/`.
@@ -74,7 +74,7 @@ User Trip Preferences Input
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **AI Processing Engine:** Google Gemini 2.5-Flash (`google-generativeai`)
 * **Visual Presentation Interface:** Gradio Blocks Dashboard Grid (Gradio 6.0+ compatible)
@@ -84,24 +84,24 @@ User Trip Preferences Input
 
 ---
 
-## 📊 Jupyter Cell Sequence Blueprint
+##  Jupyter Cell Sequence Blueprint
 
 The notebook follows a clear step-by-step modular development loop:
 
 | Cell # | Type | Target Module Context | Technical Core Purpose |
 | :--- | :--- | :--- | :--- |
-| **Cell 1** | 📝 Markdown | **Project Introduction** | System summary badges, feature indices, and blueprint architectures. |
-| **Cell 2** | 💻 Code | **Package Downloads** | Silent environment hydrations (`%pip install`) of GenAI, geopy, and UI frameworks. |
-| **Cell 3** | 💻 Code | **Global Initializations** | Standard imports, data classes configuration blueprints, and API settings. |
-| **Cell 4** | 💻 Code | **Destination Researcher** | Implements the `DestinationResearcher` tool parsing JSON culture data blocks. |
-| **Cell 5** | 💻 Code | **Itinerary Generation** | Implements `ItineraryBuilder` class with bar plotting budget algorithms. |
-| **Cell 6** | 💻 Code | **Orchestrator Pipeline Agent** | Defines `AITravelPlannerAgent` orchestrating workflows and file exports. |
-| **Cell 7** | 💻 Code | **Verification Demo Run** | Runs system diagnostics using a mock beach vacation scenario framework. |
-| **Cell 8** | 💻 Code | **Gradio Interface App** | Mounts individual input metadata configurations panels directly into browser displays. |
+| **Cell 1** |  Markdown | **Project Introduction** | System summary badges, feature indices, and blueprint architectures. |
+| **Cell 2** |  Code | **Package Downloads** | Silent environment hydrations (`%pip install`) of GenAI, geopy, and UI frameworks. |
+| **Cell 3** |  Code | **Global Initializations** | Standard imports, data classes configuration blueprints, and API settings. |
+| **Cell 4** |  Code | **Destination Researcher** | Implements the `DestinationResearcher` tool parsing JSON culture data blocks. |
+| **Cell 5** |  Code | **Itinerary Generation** | Implements `ItineraryBuilder` class with bar plotting budget algorithms. |
+| **Cell 6** |  Code | **Orchestrator Pipeline Agent** | Defines `AITravelPlannerAgent` orchestrating workflows and file exports. |
+| **Cell 7** |  Code | **Verification Demo Run** | Runs system diagnostics using a mock beach vacation scenario framework. |
+| **Cell 8** |  Code | **Gradio Interface App** | Mounts individual input metadata configurations panels directly into browser displays. |
 
 ---
 
-## ⚙️ Installation & Environment Setup
+##  Installation & Environment Setup
 ```
 
 ### 1. Deploy Dependencies Manifest
@@ -124,7 +124,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyYourSecretKeyStringHere"
 
 ---
 
-## 📁 Project Directory Architecture
+##  Project Directory Architecture
 
 ```text
 AI_Travel_Planner/
@@ -139,7 +139,7 @@ AI_Travel_Planner/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Divya** — AI/ML Developer |
 
