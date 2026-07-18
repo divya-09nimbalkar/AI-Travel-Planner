@@ -1,0 +1,18 @@
+# ── Core Generative AI System Layer ────────────────────────
+google-generativeai>=0.8.0
+
+# ── Data Array Structuring & Matrix Mapping ────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+
+# ── Application UI Framework Layouts ───────────────────────
+gradio>=6.0.0
+
+# ── Geographic Frameworks & Mapping Systems ────────────────
+folium>=0.16.0
+geopy>=2.4.1
+
+# ── Terminal Utilities & Graph Plotters ────────────────────
+matplotlib>=3.8.0
+rich>=13.7.0
