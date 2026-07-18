@@ -34,7 +34,7 @@ The **AI Travel Planner** tool helps travelers bypass the stress of coordinating
 ##  System Architecture
 
 
-```
+
 
 User Trip Preferences Input
 │
