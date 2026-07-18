@@ -27,7 +27,7 @@
 
 ##  Overview
 
-The **AI Travel Planner** tool helps travelers bypass the stress of coordinating multi-day vacations. By running structured JSON contextual inquiries across destination constraints, budget caps, traveler volumes, and specialized styles, it algorithmically maps ideal morning/afternoon/evening schedules, plots local expenditure forecasts, and compiles custom packing checklists.
+The AI Travel Planner tool helps travelers bypass the stress of coordinating multi-day vacations. By running structured JSON contextual inquiries across destination constraints, budget caps, traveler volumes, and specialized styles, it algorithmically maps ideal morning/afternoon/evening schedules, plots local expenditure forecasts, and compiles custom packing checklists.
 
 ---
 
