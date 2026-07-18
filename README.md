@@ -143,6 +143,3 @@ AI_Travel_Planner/
 
 **Divya** — AI/ML Developer |
 
-```
-
-```
