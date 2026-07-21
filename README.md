@@ -1,6 +1,5 @@
 
 ---
-
 ```markdown
 #  AI Travel Planner
 
