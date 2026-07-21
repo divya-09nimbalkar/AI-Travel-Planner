@@ -1,4 +1,4 @@
-# ── Core Generative AI System Layer ────────────────────────
+# ── Core Generative AI System Layer ───────────────────────
 google-generativeai>=0.8.0
 
 # ── Data Array Structuring & Matrix Mapping ────────────────
